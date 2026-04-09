@@ -1,0 +1,11 @@
+EmployeeID,Age,Salary,JobSatisfaction,YearsAtCompany,Promotion,Attrition
+1,25,30000,2,1,No,Yes
+2,30,50000,4,5,Yes,No
+3,28,32000,2,2,No,Yes
+4,35,60000,5,7,Yes,No
+5,40,70000,3,10,Yes,No
+6,26,28000,1,1,No,Yes
+7,32,45000,3,4,No,No
+8,29,35000,2,2,No,Yes
+9,45,80000,5,12,Yes,No
+10,27,30000,2,1,No,Yes
